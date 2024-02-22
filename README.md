@@ -10,20 +10,14 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanosman&theme=discord" alt="pawanosman" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viiqt&theme=discord" alt="viiqt" /></a> </p>
 
 <div align="center"> 
-💬 Ask me about <b>C#, JS/TS, PHP, Lua</b>
-📫 How to reach me <b>contact@pawan.krd</b>
+📫 How to reach me <b>@viiqt</b>
 </div>
 <h3 align="center" style="text-decoration: underline;">Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/pawanosmant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pawanosmant" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pawanosman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawanosman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8165641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8165641" height="30" width="40" /></a>
-<a href="https://fb.com/pawan.osman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pawan.osman" height="30" width="40" /></a>
-<a href="https://instagram.com/pawan.osman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawan.osman" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@PawanOsman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pawanosman" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@viiqt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pawanosman" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
