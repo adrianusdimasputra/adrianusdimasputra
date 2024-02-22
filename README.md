@@ -1,10 +1,10 @@
-<h1 align="center">Hi👋, I'm Pawan</h1>
+<h1 align="center">Hi👋, I'm Vii</h1>
 <hr/>
-<h3 align="center">Backend Developer, IT consultant, and Networking Specialist</h3>
+<h3 align="center">Redesigner, Skid</h3>
 
 
 <p align="center"> 
-  <a href="https://github.com/PawanOsman" alt="Pawan's GitHub">
+  <a href="https://github.com/viiqt" alt="Pawan's GitHub">
     <img src="https://komarev.com/ghpvc/?username=pawanosman&label=Profile%20views&color=0e75b6&style=flat&logo=Patreon" />
   </a>
   <a href="https://patreon.com/pawanosman" alt="Pawan's Patreon">
