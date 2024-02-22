@@ -5,12 +5,8 @@
 
 <p align="center"> 
   <a href="https://github.com/viiqt" alt="Pawan's GitHub">
-    <img src="https://komarev.com/ghpvc/?username=pawanosman&label=Profile%20views&color=0e75b6&style=flat&logo=Patreon" />
+    <img src="https://komarev.com/ghpvc/?username=viiqt&label=Profile%20views&color=0e75b6&style=flat&logo=Patreon" />
   </a>
-  <a href="https://patreon.com/pawanosman" alt="Pawan's Patreon">
-    <img src="https://img.shields.io/badge/patreon-donate-blueviolet.svg?color=FF424D&logo=Patreon" />
-  </a>
-</p>
 
 
 
