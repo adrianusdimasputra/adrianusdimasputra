@@ -1,6 +1,6 @@
 <h1 align="center">Nice to meet you, I'm Vii. 😉</h1>
 <hr/>
-<h3 align="center">Redesigner, Skid 🍎</h3>
+<h3 align="center">Redesigner 📱</h3>
 
 
 <p align="center"> 
@@ -11,7 +11,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viiqt&theme=discord" alt="viiqt" /></a> </p>
 
 <div align="center"> 
-📱 How to reach me <b>@viiqt</b>
+📱 Send me a message at my discord: <b>@viiqt</b>
 </div>
 <h3 align="center" style="text-decoration: underline;">Check out my Youtube Channel!</h3>
 <p align="center">
