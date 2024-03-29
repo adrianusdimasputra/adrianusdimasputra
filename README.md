@@ -11,8 +11,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viiqt&theme=discord" alt="viiqt" /></a> </p>
 
 <div align="center"> 
-📱 Send me a message at my discord: <b>@MedanJett</b>
+📱 Send me a message at my discord
+  
 </div>
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-3/709518998680895538.png">
+</p>
+
 <h3 align="center" style="text-decoration: underline;">Check out my Youtube Channel!</h3>
 <p align="center">
 <a href="https://www.youtube.com/@viiqt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="viiqt" height="30" width="40" /></a>
