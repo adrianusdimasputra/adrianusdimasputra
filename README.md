@@ -11,9 +11,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viiqt&theme=discord" alt="viiqt" /></a> </p>
 
 <div align="center"> 
-📱 Send me a message at my discord
-  
+Send me a message at my discord  
 </div>
+
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-1/852703404672155659.png">
 </p>
