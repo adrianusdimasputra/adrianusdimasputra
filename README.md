@@ -15,7 +15,7 @@
   
 </div>
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/709518998680895538.png">
+  <img src="https://discord.c99.nl/widget/theme-1/852703404672155659.png">
 </p>
 
 <h3 align="center" style="text-decoration: underline;">Check out my Youtube Channel!</h3>
