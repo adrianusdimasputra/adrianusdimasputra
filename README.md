@@ -1,6 +1,6 @@
 <h1 align="center">Hai! Saya Dimas! 😻</h1>
 <hr/>
-<h3 align="center">Marketing</h3>
+<h3 align="center">A freshman student at Fons Vitae 1 High School.</h3>
 
 
 <p align="center"> 
