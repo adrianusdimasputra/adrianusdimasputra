@@ -18,7 +18,7 @@ Tinggalkan Saya pesan melalui Discord!
   <img src="https://discord.c99.nl/widget/theme-1/852703404672155659.png">
 </p>
 
-<h3 align="center" style="text-decoration: underline;">Subscribe!</h3>
+<h3 align="center" style="text-decoration: underline;">Saya biasanya berada di Game Growtopia!</h3>
 <p align="center">
 <a href="https://www.youtube.com/@viiqt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="viiqt" height="30" width="40" /></a>
 </p>
