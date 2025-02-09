@@ -1,23 +1,36 @@
 <h1 align="center">Hai! Saya Dimas! 😻</h1>
 <hr/>
-<h3 align="center">A freshman student at Fons Vitae 1 High School.</h3>
 
+<h3 align="center">🌱 Freshman at Fons Vitae 1 High School</h3>
 
-<p align="center"> 
+<p align="center">
   <a href="https://github.com/adrianusdimasputra" alt="Dim's GitHub">
     <img src="https://komarev.com/ghpvc/?username=adrianusdimasputra&label=Profile%20views&color=0e75b6&style=flat&logo=Patreon" />
   </a>
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianusdimasputra&theme=discord" alt="viiqt" /></a> </p>
+---
 
-<div align="center"> 
-Tinggalkan Saya pesan melalui Discord!
-</div>
+### 🏆 Achievement & GitHub Stats  
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=adrianusdimasputra&theme=discord" alt="GitHub Trophies" />
+  </a>
+</p>
 
+---
+
+### 📩 Hubungi Saya!
+💬 **Tinggalkan pesan melalui Discord!**  
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-1/852703404672155659.png">
 </p>
 
-<h3 align="center" style="text-decoration: underline;">Saya biasanya berada di Game Growtopia!</h3>
-<p align="center">
-</p>
+---
+
+### 🎮 Hobi & Minat
+- 🔹 Biasanya bermain **Growtopia!** 🌍  
+- 🔹 Suka eksplorasi dunia coding dan teknologi 💻  
+- 🔹 Tertarik dengan pengembangan game dan software 🚀  
+
+✨ **Terima kasih telah mampir ke profil saya!** ✨
