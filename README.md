@@ -27,7 +27,7 @@ Saya adalah pelajar yang sedang mendalami dunia **coding, teknologi, dan game de
 
 ### 🌟 **Proyek Tersukses**  
 📌 **[My Personal Website](https://dimrq.xyz/)** – Website pribadi sebagai portofolio interaktif!  
-📌 **[Mini Game Growtopia](https://arunika.my.id/)** – Sebuah proyek kecil berbasis **Growtopia API**  
+📌 **[Proxy Android untuk Growtopia](https://arunika.my.id/)** – Sebuah proyek kecil berbasis **Growtopia API**  
 
 ---
 
