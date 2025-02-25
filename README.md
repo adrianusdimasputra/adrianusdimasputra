@@ -12,11 +12,11 @@
 ---
 
 ## 🚀 Tentang Saya
-Saya adalah pelajar yang sedang mendalami dunia **coding, teknologi, dan game development**. Saya senang belajar hal baru, terutama dalam pemrograman, dan sedang membangun proyek-proyek kecil untuk membuat suatu proyek besar dengan skill yang sudah saya miliki!  
+Saya adalah pelajar yang sedang mendalami dunia **business, teknologi, dan game development**. Saya senang belajar hal baru, terutama dalam pemrograman, dan sedang membangun proyek-proyek kecil untuk membuat suatu proyek besar dengan skill yang sudah saya miliki!  
 
 💡 **Keahlian & Minat**:  
-- 🔹 **Front-end Developer** (HTML, CSS, JavaScript)  
-- 🔹 **Cheat Development** (Growtopia & game indie)  
+- 🔹 **Growtopia Community Manager** (DarktopiaPS, TimetopiaPS, OnetopiaPS, GrowtopiaSG, & GTFY)  
+- 🔹 **Cheat Development** (Growtopia & Indie Games)  
 - 🔹 **UI/UX Design** (Figma, Canva)  
 - 🔹 **Problem Solving & Algorithm**  
 
