@@ -1,7 +1,7 @@
 <h1 align="center">Hai! Saya Dimas! 😻</h1>
 <hr/>
 
-<h3 align="center">🌱 Freshman at Fons Vitae 1 High School | Aspiring Developer</h3>
+<h3 align="center">🌱 Freshman High School Student | Aspiring Developer</h3>
 
 <p align="center">
   <a href="https://github.com/adrianusdimasputra" alt="Dim's GitHub">
