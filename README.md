@@ -15,7 +15,7 @@
 Saya adalah pelajar yang sedang mendalami dunia **business, teknologi, dan game development**. Saya senang belajar hal baru, terutama dalam pemrograman, dan sedang membangun proyek-proyek kecil untuk membuat suatu proyek besar dengan skill yang sudah saya miliki!  
 
 💡 **Keahlian & Minat**:  
-- 🔹 **Growtopia Community Manager** (DarktopiaPS, TimetopiaPS, OnetopiaPS, GrowtopiaSG, & GTFY)  
+- 🔹 **Community Manager** (DarktopiaPS, TimetopiaPS, OnetopiaPS, GrowtopiaSG, & GTFY)  
 - 🔹 **Cheat Development** (Growtopia & Indie Games)  
 - 🔹 **UI/UX Design** (Figma, Canva)  
 - 🔹 **Problem Solving & Algorithm**  
