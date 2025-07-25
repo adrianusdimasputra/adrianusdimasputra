@@ -1,7 +1,7 @@
 <h1 align="center">Hai! Saya Dimas! 😻</h1>
 <hr/>
 
-<h3 align="center">🌱 Freshman High School Student | Aspiring Developer</h3>
+<h3 align="center">🌱 Freshman High School Student</h3>
 
 <p align="center">
   <a href="https://github.com/adrianusdimasputra" alt="Dim's GitHub">
@@ -26,8 +26,8 @@ Saya adalah pelajar yang sedang mendalami dunia **business, teknologi, dan game 
 🔗 **[Lihat semua proyek saya di GitHub!](https://github.com/adrianusdimasputra?tab=repositories)**  
 
 ### 🌟 **Proyek Tersukses**  
-📌 **[My Personal Website](https://dimrq.xyz/)** – Website pribadi sebagai portofolio interaktif!  
-📌 **[Proxy Android untuk Growtopia](https://arunika.my.id/)** – Sebuah proyek kecil berbasis **Growtopia API**  
+📌 **[My Personal Website](https://dimrq.xyz/)** – Website pribadi sebagai portofolio interaktif! (Currently Offline)
+📌 **[Proxy Android untuk Growtopia](https://arunika.my.id/)** – Arunika Proxy for Growtopia (Discontinued)
 
 ---
 
