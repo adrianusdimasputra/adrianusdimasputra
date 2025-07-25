@@ -26,7 +26,7 @@ Saya adalah pelajar yang sedang mendalami dunia **business, teknologi, dan game 
 🔗 **[Lihat semua proyek saya di GitHub!](https://github.com/adrianusdimasputra?tab=repositories)**  
 
 ### 🌟 **Proyek Tersukses**  
-📌 **[My Personal Website](https://dimrq.xyz/)** – Website pribadi sebagai portofolio interaktif! (Currently Offline)
+📌 **[My Personal Website](https://dimrq.xyz/)** – Website pribadi (Currently Offline),
 📌 **[Proxy Android untuk Growtopia](https://arunika.my.id/)** – Arunika Proxy for Growtopia (Discontinued)
 
 ---
