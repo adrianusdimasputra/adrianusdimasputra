@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Tentang Saya
-Saya adalah pelajar yang sedang mendalami dunia **business, teknologi, dan game development**. Saya senang belajar hal baru, terutama dalam pemrograman, dan sedang membangun proyek-proyek kecil untuk membuat suatu proyek besar dengan skill yang sudah saya miliki!  
+Pelajar, mencari ilmu yang belom datang.
 
 💡 **Keahlian & Minat**:  
 - 🔹 **Community Manager** (DarktopiaPS, TimetopiaPS, OnetopiaPS, GrowtopiaSG, & GTFY)  
@@ -26,8 +26,9 @@ Saya adalah pelajar yang sedang mendalami dunia **business, teknologi, dan game 
 🔗 **[Lihat semua proyek saya di GitHub!](https://github.com/adrianusdimasputra?tab=repositories)**  
 
 ### 🌟 **Proyek Tersukses**  
-📌 **[My Personal Website](https://dimrq.xyz/)** – Website pribadi (Currently Offline),
-📌 **[Proxy Android untuk Growtopia](https://arunika.my.id/)** – Arunika Proxy for Growtopia (Discontinued)
+- 📌 **[My Personal Website](https://dimrq.xyz/)** – Website pribadi (Currently Offline),
+
+- 📌 **[Proxy Android untuk Growtopia](https://arunika.my.id/)** – Arunika Proxy for Growtopia (Discontinued)
 
 ---
 
@@ -52,4 +53,4 @@ Saya adalah pelajar yang sedang mendalami dunia **business, teknologi, dan game 
 
 📧 **Email:** viralgtps@gmail.com  
 
-✨ **Terima kasih telah mampir ke portofolio saya!** ✨
+✨ **Terima kasih telah mampir!** ✨
