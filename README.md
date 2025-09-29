@@ -16,6 +16,7 @@ Pelajar, mencari ilmu yang belom datang.
 
 💡 **Keahlian & Minat**:  
 - 🔹 **Community Manager** (DarktopiaPS, TimetopiaPS, OnetopiaPS, GrowtopiaSG, & GTFY)  
+- 🔹 **Management** (Arunika Proxy)  
 - 🔹 **Cheat Development** (Growtopia & Indie Games)  
 - 🔹 **UI/UX Design** (Figma, Canva)  
 - 🔹 **Problem Solving & Algorithm**  
@@ -28,7 +29,7 @@ Pelajar, mencari ilmu yang belom datang.
 ### 🌟 **Proyek Tersukses**  
 - 📌 **[My Personal Website](https://dimrq.xyz/)** – Website pribadi (Currently Offline),
 
-- 📌 **[Proxy Android untuk Growtopia](https://arunika.my.id/)** – Arunika Proxy for Growtopia (Discontinued)
+- 📌 **[Proxy Android untuk Growtopia](https://arunika.my.id/)** – Arunika Proxy for Growtopia (Recontinued)
 
 ---
 
